@@ -1,2 +1,2 @@
 this is a text document.
-now,i add a new line. 
+finally, i write a yes, and delete the second line.
